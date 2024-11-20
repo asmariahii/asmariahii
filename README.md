@@ -1,8 +1,7 @@
 # 💫 About Me:
 <br>
-👩‍💻 Hi, I’m Asma Riahi!
-📍 A 24-year-old Software Engineering student at ESPRIT, currently in my second year, specializing in Web and Internet Technologies (TWIN).
-✨ I’m passionate about technology 🌐 and love exploring how it can solve real-world challenges.
+👩‍💻 Hi, I’m Asma Riahi! a 24-year-old Software Engineering student at ESPRIT, currently in my second year, specializing in Web and Internet Technologies (TWIN).
+I’m passionate about technology and love exploring how it can solve real-world challenges.
 🚀 I’m dedicated to expanding my skills in web development and software engineering to work on impactful projects.<br><br>
 
 
