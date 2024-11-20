@@ -1,6 +1,6 @@
 ### Hi there 👋, Asma Riahi
 #### Software Engineering student
-![Software Engineering student](https://static.vecteezy.com/ti/vecteur-libre/p1/523378-developpement-web-conception-d-39-applications-codage-et-programmation-sur-concept-d-39-ordinateur-portable-et-smartphone-avec-langage-de-programmation-et-code-de-programme-et-mise-en-page-sur-vecteur-ecran-vectoriel.jpg)
+![Software Engineering student](https://media.licdn.com/dms/image/v2/D4E16AQHJVUdvK7dFyA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719347597751?e=1737590400&v=beta&t=mr3hAFk7sR3j-osC5VB-2vrlNsxSD0_aC7guFWxYi-0)
 
 Hi, I’m Asma Riahi, a 24-year-old Software Engineering student at ESPRIT, specializing in Web and Internet Technologies (TWIN). I’m passionate about using technology to solve real-world challenges and eager to grow my skills in web development and software engineering.
 
