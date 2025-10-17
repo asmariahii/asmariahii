@@ -1,8 +1,9 @@
 # 👋 Hey there, I'm **Asma Riahi**
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/38/3a/72/383a72a2e6dc196d3e9a61df476c7c4f.gif" alt="Girl coding" width="350"/>
+  <img src="https://i.pinimg.com/originals/5b/4a/5e/5b4a5e5b6c06f6b48b4a61a2c9300b3b.gif" alt="Girl working on laptop" width="350"/>
 </p>
+
 
 🎓 24-year-old **Software Engineering Student** at [ESPRIT University](https://esprit.tn)  
 💡 Passionate about building **smart, scalable apps** that make a real impact.  
